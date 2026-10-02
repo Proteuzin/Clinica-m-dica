@@ -1,0 +1,14 @@
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\bin\Debug\net9.0\ClinicaPOO.exe
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\bin\Debug\net9.0\ClinicaPOO.deps.json
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\bin\Debug\net9.0\ClinicaPOO.runtimeconfig.json
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\bin\Debug\net9.0\ClinicaPOO.dll
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\bin\Debug\net9.0\ClinicaPOO.pdb
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\obj\Debug\net9.0\ClinicaPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\obj\Debug\net9.0\ClinicaPOO.AssemblyInfoInputs.cache
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\obj\Debug\net9.0\ClinicaPOO.AssemblyInfo.cs
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\obj\Debug\net9.0\ClinicaPOO.csproj.CoreCompileInputs.cache
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\obj\Debug\net9.0\ClinicaPOO.dll
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\obj\Debug\net9.0\refint\ClinicaPOO.dll
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\obj\Debug\net9.0\ClinicaPOO.pdb
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\obj\Debug\net9.0\ClinicaPOO.genruntimeconfig.cache
+C:\Users\aluno.senai\Desktop\Clinica médica\ClinicaPOO\obj\Debug\net9.0\ref\ClinicaPOO.dll
